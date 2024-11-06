@@ -51,7 +51,7 @@ const VERSION: &str = env!("CARGO_PKG_VERSION");
 pub fn parse<'app>() -> App<'app> {
     App::new("bw_toolset")
         .version(VERSION)
-        .author("Mike Smith <msmith@khulnasoft.com>")
+        .author("Md Sulaiman <admin@khulnasoft.com>")
         .about("The toolset for the KhulnaSoft Framework Benchmarks.")
         // Suite options
         .arg(
