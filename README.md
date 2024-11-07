@@ -1,6 +1,6 @@
 # BWPlugins
 
-[![Build Status](https://github.com/KhulnaSoft/BWPlugins/workflows/build/badge.svg?branch=master&event=push)](https://github.com/KhulnaSoft/BWPlugins/actions?query=workflow%3Abuild+branch%3Amaster)
+[![Build & Tests](https://github.com/khulnasoft/BWPlugins/workflows/build/badge.svg)](https://github.com/khulnasoft/BWPlugins/actions)
 
 The suite of tools that are run in the KhulnaSoft Framework
 Benchmarks. This application is a stand-alone executable which orchestrates
